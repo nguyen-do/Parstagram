@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/Jw0DNzA.gif' width="250" />
+<img src='https://i.imgur.com/Jw0DNzA.gif' width="300" />
 <img src='https://i.imgur.com/5mBYjtw.gif' />
 
 
